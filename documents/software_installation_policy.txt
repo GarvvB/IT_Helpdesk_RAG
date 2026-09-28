@@ -1,0 +1,14 @@
+Company Software Installation Policy
+
+Employees must not install unauthorized software on company-managed
+laptops.
+
+Software required for an approved project may be installed after
+obtaining approval from the appropriate manager or project lead.
+
+Software installation may also require approval from the IT or IS team.
+
+Employees should not bypass company security controls to install software.
+
+If an employee needs software for business purposes, they should submit
+a software installation request to the IT Helpdesk.

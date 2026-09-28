@@ -1,0 +1,18 @@
+Company VPN Guide
+
+Employees must connect to the company VPN when accessing internal
+company resources from outside the office network.
+
+To connect to the VPN:
+
+1. Open the company VPN application.
+2. Enter your company username.
+3. Enter your company password.
+4. Select the Corporate VPN profile.
+5. Click Connect.
+6. Complete MFA verification when prompted.
+
+If the VPN connection fails, restart the VPN application and check
+that your internet connection is working.
+
+If the problem continues, contact the IT Helpdesk.
